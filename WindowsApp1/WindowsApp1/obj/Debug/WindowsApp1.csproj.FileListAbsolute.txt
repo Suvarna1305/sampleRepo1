@@ -1,0 +1,9 @@
+D:\VSProjects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\VSProjects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\VSProjects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csprojResolveAssemblyReference.cache
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Properties.Resources.resources
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csproj.GenerateResource.Cache
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\VSProjects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
